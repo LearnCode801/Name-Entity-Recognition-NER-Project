@@ -1,4 +1,5 @@
 # Named Entity Recognition (NER) with spaCy
+![Project Banner](https://github.com/LearnCode801/Name-Entity-Recognition-NER-Project/blob/main/Screenshot%202025-09-21%20140344.png)
 
 [![Demo Video](https://img.shields.io/badge/Demo-Video-red.svg)](https://drive.google.com/file/d/1GLqMEue5x8sYKaOfK0uJeKGXmh73IWF7/view?usp=sharing)
 
